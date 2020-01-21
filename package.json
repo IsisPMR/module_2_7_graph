@@ -1,0 +1,23 @@
+{
+  "name": "module_2_7_graph",
+  "version": "1.0.0",
+  "description": "Modulo2grafos",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsisPMR/module_2_7_graph.git"
+  },
+  "keywords": [],
+  "author": "Isis Mora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsisPMR/module_2_7_graph/issues"
+  },
+  "homepage": "https://github.com/IsisPMR/module_2_7_graph#readme",
+  "dependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
